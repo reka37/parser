@@ -85,7 +85,17 @@ $array_names_files = array(
 	'Покраска сколов на автомобиле Land Rover', 
 	'Покраска зеркала Land Rover',
 	'Покраска вмятины Land Rover',
-	'Покраска арок Land Rover'
+	'Покраска арок Land Rover',
+	'Покраска двери Land Rover',
+	'Покраска деталей Land Rover',
+	'Покраска капота Land Rover',
+	'Покраска крыла Land Rover',
+	'Покраска крыши Land Rover',
+	'Покраска кузова Land Rover',
+	'Покраска пластика салона Land Rover',
+	'Покраска порогов Land Rover',
+	'Покраска царапин на автомобиле Land Rover',
+	'Покрасочные работы кузова Land Rover'
 );
 
 foreach($array_names_files as $result) {
